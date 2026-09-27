@@ -31,7 +31,7 @@ DATABASE = "face_database.pkl"
 
 # YOUR CURRENT CAMERA SETUP
 # Camera 1 = desktop/laptop webcam -> ENTRY / LOGIN
-ENTRY_CAMERA = "http://10.21.57.73:8080/video"
+ENTRY_CAMERA = 0
 
 # Camera 2 = mobile IP camera -> EXIT / LOGOUT
 EXIT_CAMERA = "http://192.0.0.4:8080/video"
