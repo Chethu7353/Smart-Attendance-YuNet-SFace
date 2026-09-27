@@ -1,0 +1,24 @@
+.env
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+face_database.pkl
+dataset/
+
+attendance.db
+attendance.csv
+
+*.log
+logs/
+
+.vscode/
+.idea/
+models/deploy.prototxt
+models/res10_300x300_ssd_iter_140000.caffemodel
+
+# Old unused models
+models/*.caffemodel
+models/*.prototxt
